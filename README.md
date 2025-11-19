@@ -19,9 +19,8 @@
 
 ---
 
-# Project Information
-
-This repository contains a complete collection of global BIN (Bank Identification Number) data.  
+# BIN (Bank Identification Number) data.
+ 
 A total of **374,797** records are included.
 
 The dataset is provided in three formats:
